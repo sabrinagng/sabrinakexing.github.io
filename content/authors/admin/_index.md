@@ -74,8 +74,6 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS. Computer Science & BS. Statistics and Analytics
     institution: University of North Carolina at Chapel Hill
-    date_start: 2022-08
-    date_end: 2026-05
     summary: |
       GPA: 3.4/4.0
       
