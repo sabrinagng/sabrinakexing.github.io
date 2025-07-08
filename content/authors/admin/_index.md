@@ -48,8 +48,10 @@ profiles:
 
 interests:
   - Human Centered AI
-  - Computational Linguistics
-  - Information Retrieval
+  - Intelligent Wearable Devices
+  - Human-Computer Interaction
+  - Natural Language Processing
+  - Interative Systems
 
 education:
   # - area: PhD Artificial Intelligence
@@ -74,13 +76,13 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS. Computer Science & BS. Statistics and Analytics
     institution: University of North Carolina at Chapel Hill
-    summary: |
-      GPA: 3.4/4.0
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey there! My name is Sabrina Geng. I am currently a senior (4th-year) undergraduate at UNC Chapel Hill, double-majoring in Computer Science and Statistics & Analytics. My research spans from NLP to Human-Computer Interaction focusing on human-centered AI from which personalized healthcare can foster. I began my undergraduate studies goal in media and journalism, but after taking a programming class at UNC, I got completely hooked on coding and made the big leap to Computer Science. I began my research with [Prof. Wubin Bai](https://baigroup.org/) at UNC Chapel Hill, where I developed interest and gained experience in human-centric AI and how wearble sensors benefit human society. I also work with [Prof. Prasun Dewan](https://www.cs.unc.edu/~dewan/) and [Prof. Huaxiu Yao](https://www.huaxiuyao.io/), examining how AI can adapt to individual and group interaction patterns. Currently, I am working with [Prof. Momona Yamagami](https://momona.rice.edu/) at Rice University on simplifying the current EMG-based gesture classification pipeline with Self-Supervised Learning. Beyond research and code reviews, you’ll often find me at the piano, experimenting with new recipes, or losing myself in the world of filming wherever I can.
