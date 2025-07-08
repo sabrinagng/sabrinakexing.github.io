@@ -36,8 +36,11 @@ sections:
       subtitle: ''
       text: |-
         Visiting Scholar @Yamagami Lab, Rice University (May 2025- Present)
+        
         Research Assistant @ UNC Department of Computer Science, UNC-Chapel Hill (Oct 2024 - Present)
+        
         Research Assistant @ UNC Bai Lab, UNC-Chapel Hill (Jun 2024 - Present)
+        
         Research Intern @ UNC AIMING Lab, UNC-Chapel Hill (Aug 2024 - Nov 2024)
 
          💡 I am looking for Fall 2026 and Spring 2027 Ph.D. opportunities :)
